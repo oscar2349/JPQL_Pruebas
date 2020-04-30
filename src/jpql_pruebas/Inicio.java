@@ -7,6 +7,14 @@
 package jpql_pruebas;
 
 
+
+
 public class Inicio {
+    
+    public void pruebas(){
+    
+        System.out.println("Esto es una prueba");
+    }
+            
 
 }
