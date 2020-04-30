@@ -18,6 +18,14 @@ public class Inicio {
 
         
     }
+    
+       public void pruebas2(){
+    
+        System.out.println("CAmbio a la Rama eleiminar");
+                System.out.println("Entro al caso eliminar");
+
+        
+    }
             
 
 }
