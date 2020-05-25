@@ -3,29 +3,19 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-
 package jpql_pruebas;
 
-
-
-
 public class Inicio {
-    
-    public void pruebas(){
-    
+
+    public void pruebas() {
+
         System.out.println("Esto es una prueba");
     }
-            
 
-   
-    
     public static void main(String[] args) {
-         
-   
     }
-
 
     private Inicio() {
     }
-    
+
 }
